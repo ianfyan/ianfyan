@@ -13,7 +13,6 @@
   [![Medium](https://img.shields.io/badge/Read%20Articles-Medium-000000?style=for-the-badge)](https://medium.com/@imamkurfian)  
   [![Instagram](https://img.shields.io/badge/Follow%20Me-Instagram-E4405F?style=for-the-badge)](https://instagram.com/ian_fyan)  
 
-  &nbsp;  
   &nbsp; 
 
   ![ianfyan's GitHub Streak](https://streak-stats.demolab.com?user=ianfyan&theme=vue-dark&hide_border=true&card_width=600&card_height=150)
